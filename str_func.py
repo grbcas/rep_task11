@@ -16,3 +16,4 @@ if __name__ == '__main__':
 	print(upper('text'))
 	print(capitalize_str('test'))
 	print(capitalize_str('test2'))
+	print(capitalize_str('test3'))
