@@ -1,17 +1,15 @@
 def upper(in_str: str) -> str:
 	"""
 	
-	upper(in_str: str) -> str.upper()
-	
+	upper(in_str: str) -> str.upper()	
 	"""
 	return in_str.upper()
 
 
 def capitalize_str(in_str: str) -> str:
 	"""
-
+	
 	capitalize_str(in_str: str) -> str.capitalize()
-
 	"""
 	return in_str.capitalize()
 
