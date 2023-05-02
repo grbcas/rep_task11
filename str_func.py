@@ -17,3 +17,4 @@ def capitalize_str(in_str: str) -> str:
 if __name__ == '__main__':
 	print(upper('text'))
 	print(capitalize_str('test'))
+	print(capitalize_str('git #3'))
